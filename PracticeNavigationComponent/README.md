@@ -8,8 +8,8 @@ This repository is for practice [NavigationComponent](https://developer.android.
 This project has two screens using [NavigationComponent](https://developer.android.com/guide/navigation/navigation-getting-started).  
 Also it displays data from local json file.
 
-![Screen1](../ScreenShots/PracticeNavigationComponent/screen1.png?raw=true)
-![Screen2](../ScreenShots/PracticeNavigationComponent/screen2.png?raw=true)
+<img src="../ScreenShots/PracticeNavigationComponent/screen1.png" width="288" height="608">
+<img src=".../ScreenShots/PracticeNavigationComponent/screen2.png" width="288" height="608">
 
 ## OSS
 - [Coil](https://github.com/coil-kt/coil)
