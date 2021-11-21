@@ -1,0 +1,57 @@
+import dependencies.Dep
+
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlinx-serialization'
+    id 'androidx.navigation.safeargs.kotlin'
+}
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "io.github.practicenavigationcomponent"
+        minSdk 24
+        targetSdk 31
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+    implementation Dep.Jetpack.core
+    implementation Dep.Jetpack.appcompat
+    implementation Dep.Google.material
+    implementation Dep.Jetpack.constraintLayout
+    implementation Dep.Jetpack.legacySupport
+    testImplementation Dep.JUnit.junit
+    androidTestImplementation Dep.Jetpack.junit
+    androidTestImplementation Dep.Jetpack.espresso
+
+    // Kotlin
+    implementation Dep.Jetpack.Navigation.fragment
+    implementation Dep.Jetpack.Navigation.ui
+    // Feature module Support
+    implementation Dep.Jetpack.Navigation.features
+    // Kotlin Serialization
+    implementation Dep.KotlinX.kotlinSerialization
+    // Coil
+    implementation Dep.Coil.coil
+}

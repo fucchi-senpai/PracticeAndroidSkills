@@ -1,0 +1,94 @@
+{
+  "cats": [
+    {
+      "name": "Persian cat",
+      "description": "The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle. It is also known as the \"Persian Longhair\" in English-speaking countries. The first documented ancestors of Persian cats were imported into Italy from Persia around 1620.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/220px-White_Persian_Cat.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Persian_cat"
+    },
+    {
+      "name": "Maine Coon",
+      "description": "The Maine Coon is a large domesticated cat breed. It has a distinctive physical appearance and valuable hunting skills. It is one of the oldest natural breeds in North America. The breed originated in the state of Maine, USA, where it is the official state cat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Maine_Coon_cat_by_Tomitheos.JPG",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Maine_Coon"
+    },
+    {
+      "name": "Bengal cat",
+      "description": "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, especially the spotted Egyptian Mau, with the Asian leopard cat. The breed name comes from the leopard cat's taxonomic name.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Paintedcats_Red_Star_standing.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Bengal_cat"
+    },
+    {
+      "name": "British Shorthair",
+      "description": "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar colour variant is the \"British Blue\", with a solid grey-blue coat, orange eyes, and a medium-sized tail.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Britishblue.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/British_Shorthair"
+    },
+    {
+      "name": "Siamese cat",
+      "description": "The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to Thailand, the original Siamese became one of the most popular breeds in Europe and North America in the 19th century.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Siamese_cat"
+    },
+    {
+      "name": "Sphynx cat",
+      "description": "The Sphynx cat, or simply Sphynx, is a breed of cat known for its lack of fur. Hairlessness in cats is a naturally occurring genetic mutation, and the Sphynx was developed through selective breeding of these animals, starting in the 1960s.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sphinx2_July_2006.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Sphynx_cat"
+    },
+    {
+      "name": "Ragdoll",
+      "description": "The Ragdoll is a cat breed with a color point coat and striking blue eyes. Their form is large and muscular and their coat is silky soft and semi-longhair. Ragdolls were developed by American breeder Ann Baker in the 1960s. They are best known for their docile and placid temperament and affectionate nature.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ragdoll_from_Gatil_Ragbelas.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Ragdoll"
+    },
+    {
+      "name": "Munchkin cat",
+      "description": "The Munchkin cat or Sausage cat is a relatively new breed of cat characterized by its very short legs, which are caused by genetic mutation. The Munchkin is considered to be the original breed of dwarf cat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Longhairedmunchkin.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Munchkin_cat"
+    },
+    {
+      "name": "Scottish Fold",
+      "description": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to \"fold\", bending forward and down towards the front of the head, which gives the cat what is often described as an \"owl-like\" appearance.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Adult_Scottish_Fold.jpg/1200px-Adult_Scottish_Fold.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Scottish_Fold"
+    },
+    {
+      "name": "Norwegian Forest cat",
+      "description": "The Norwegian Forest cat is a breed of domestic cat originating in Northern Europe. This natural breed is adapted to a very cold climate, with a top coat of glossy, long, water-shedding hair and a woolly undercoat for insulation.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Norwegian_Forest_Cat_in_snow_%28closeup%29_%28cropped%29.jpg/1200px-Norwegian_Forest_Cat_in_snow_%28closeup%29_%28cropped%29.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Norwegian_Forest_cat"
+    },
+    {
+      "name": "Savannah cat",
+      "description": "The Savannah is a hybrid cat breed. It is a cross between a serval and a domestic cat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Savannah_Cat_portrait.jpg/1200px-Savannah_Cat_portrait.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Savannah_cat"
+    },
+    {
+      "name": "Siberian cat",
+      "description": "The Siberian is a centuries-old landrace of domestic cat in Russia and recently developed as a formal breed with standards promulgated the world over since the late 1980s. Siberians vary from medium to medium-large in size.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chairman_Meow_Bao.jpg/1200px-Chairman_Meow_Bao.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Siberian_cat"
+    },
+    {
+      "name": "American Shorthair",
+      "description": "The American Shorthair is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats. According to the Cat Fanciers' Association, in 2012, it was the seventh most popular pedigreed cat in the United States.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/American_Shorthair.jpg/1200px-American_Shorthair.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/American_Shorthair"
+    },
+    {
+      "name": "Exotic Shorthair",
+      "description": "The Exotic Shorthair is a breed of cat developed as a short-haired version of the Persian. The Exotic is similar to the Persian in many ways, including temperament and conformation, a flat nose and face with the exceptions of the short dense coat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Brown_Exotic_Shorthair_Kitten.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
+    },
+    {
+      "name": "Russian Blue",
+      "description": "The Russian Blue Cat, commonly referred to as just Russian Blue, is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. Their short, dense coat, which stands out from the body, has been the hallmark of the Russian breed for more than a century.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cat_Janna.jpg/170px-Cat_Janna.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/Russian_Blue"
+    }
+  ]
+}
