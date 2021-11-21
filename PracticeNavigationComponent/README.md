@@ -9,7 +9,7 @@ This project has two screens using [NavigationComponent](https://developer.andro
 Also it displays data from local json file.
 
 <img src="../ScreenShots/PracticeNavigationComponent/screen1.png" width="288" height="608">
-<img src=".../ScreenShots/PracticeNavigationComponent/screen2.png" width="288" height="608">
+<img src="../ScreenShots/PracticeNavigationComponent/screen2.png" width="288" height="608">
 
 ## OSS
 - [Coil](https://github.com/coil-kt/coil)
